@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/mega4me/SaveRestrictedContentBot",
     "website": "",
-    "success_url": "https://t.me/johnwick00007777",
+    "success_url": "https://t.me/wickjohn000777",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
